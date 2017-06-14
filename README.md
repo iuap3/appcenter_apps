@@ -14,7 +14,7 @@
 
 举例来说：
 
-![](/articles/portal/image1.png)
+![](/articles/quickstart/image1.png)
     
 1、”产品介绍“、”管理中心“是一级目录，其余为二级目录。要求一级目录无内容，仅做目录。
 
