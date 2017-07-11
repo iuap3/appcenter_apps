@@ -8,7 +8,7 @@
 
 ![](/articles/quickstart/2-/images/image10.png)
 
-图：八
+图八
 
 打开“默认全部授权”的开关，则选中租户关联的所有用户均可以使用这个应用，比如图八中的友电、用友电子发票服务、友人才中信版、云ESB。
 
@@ -18,6 +18,6 @@
 
 ![](/articles/quickstart/2-/images/image11.png)
 
-图：九
+图九
 
 

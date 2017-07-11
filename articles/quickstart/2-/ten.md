@@ -16,7 +16,7 @@
 
 ![](/articles/quickstart/2-/images/image3.png)
 
-图：一
+图一
 
 点击界面右上角登录用户，在下拉菜单中选择“账号设置”可以查看当前登录账号的信息，
 
@@ -26,11 +26,11 @@
 
 ![](/articles/quickstart/2-/images/image4.png)
 
-图：二
+图二
 
 ![](/articles/quickstart/2-/images/image5.png)
 
-图：三
+图三
 
 目前应用中心提供了租户管理、租用管理和应用授权等服务，后续将会提供更多更实用的应用服务。
 

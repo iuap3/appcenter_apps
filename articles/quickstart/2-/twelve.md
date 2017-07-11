@@ -4,6 +4,6 @@
 
 ![](/articles/quickstart/2-/images/image9.png)
 
-图：七
+图七
 
 
