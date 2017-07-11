@@ -1,6 +1,5 @@
-# Summary
+# Table of content
 
-* [Introduction](README.md)
 * [应用中心快速入门](articles/quickstart/1-/one.md)
 * [应用中心操作手册](articles/quickstart/2-/eight.md)
     * [应用中心的产品特性和价值](articles/quickstart/2-/night.md)
