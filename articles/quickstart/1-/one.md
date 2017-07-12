@@ -6,19 +6,19 @@
 
 ![](/articles/quickstart/1-/images/image1.png)
 
-图：一
+图一
 
 输入手机号码，系统会校验手机号是否注册过，如果注册过则会有相应的提示。按界面引导完成注册。
 
 ![](/articles/quickstart/1-/images/image2.png)
 
-图：二
+图二
 
 注册成功后，返回首页菜单，选择云平台下的企业应用中心，用刚才注册成功的账户登录系统后，系统弹出如图三所示的界面。
 
 ![](/articles/quickstart/1-/images/image3.png)
 
-图：三
+图三
 
 看到此界面，说明您已经成为用友云的一名用户，但您还没有注册为用友云的租户，也不是租户管理员，无法体验到更多的功能，但可以在云市场下单购买中意的产品。
 
@@ -30,13 +30,13 @@
 
 ![](/articles/quickstart/1-/images/image4.png)
 
-图：四
+图四
 
 如果看中了某个商品，在详情界面点击右侧的“立即购买”即可进入到下单界面进行购买。
 
 ![](/articles/quickstart/1-/images/image5.png)
 
-图：五
+图五
 
 按界面导航完成后续购买操作。
 
@@ -44,7 +44,7 @@
 
 ![](/articles/quickstart/1-/images/image6.png)
 
-图：六
+图六
 
 **3、注册租户**
 
@@ -58,13 +58,13 @@
 
 ![](/articles/quickstart/1-/images/image7.png)
 
-图：七
+图七
 
 注册成功后界面显示如下：
 
 ![](/articles/quickstart/1-/images/image8.png)
 
-图：八
+图八
 
 **4、租户管理，创建及维护租户下的用户**
 
@@ -72,7 +72,7 @@
 
 ![](/articles/quickstart/1-/images/image9.png)
 
-图：九
+图九
 
 **5、租用管理**
 
@@ -80,7 +80,7 @@
 
 ![](/articles/quickstart/1-/images/image10.png)
 
-图：十
+图十
 
 **6、应用授权**
 
@@ -92,7 +92,7 @@
 
 ![](/articles/quickstart/1-/images/image11.png)
 
-图：十一
+图十一
 
 
 
