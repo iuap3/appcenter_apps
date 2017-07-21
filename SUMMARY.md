@@ -13,7 +13,5 @@
     * [租户管理](articles/quickstart/2-/eleven.md)
     * [租用管理](articles/quickstart/2-/twelve.md)
     * [应用授权](articles/quickstart/2-/thirteen.md)
-* [产品常见问题](articles/quickstart/4-/questions.md)
-    * [常见问题](articles/quickstart/4-/concerns.md)
 
 
