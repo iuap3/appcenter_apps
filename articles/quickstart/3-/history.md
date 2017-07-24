@@ -1,6 +1,6 @@
 # Release Notes
 
-v1.0
+## v1.0
 
 Release Date：2017年4月19日
 
