@@ -1,4 +1,4 @@
-# Table of content
+# 应用中心
 
 * [产品介绍](articles/quickstart/3-/prod_intro.md)
     * [产品概述](articles/quickstart/3-/summary.md)
