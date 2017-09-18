@@ -1,0 +1,34 @@
+{ 
+ "title": "应用中心", 
+ "desc": "企业应用中心是以公有云服务方式，为企业级应用开发者提供企业级应用管理、租户、租用、应用授权管理
+
+等云服务，并以可租用的模式提供快速构建企业级应用需要的组织、权限、流程、打印、调度任务、公式、编码规则、
+
+国际化等应用支撑云服务，以及企业级应用常用的币种，计量单位，人员，职务，职位，供应商，客户，物料，项目等
+
+基础数据云服务，以支持企业级应用开发者进行具体应用的开发、定制和业务创新，并支持企业按照业务变化动态调整
+
+。 总结为一句话，就是提供公有云的动态建模平台。", 
+ "list": [ 
+ { 
+ "title": "快速入门", 
+ "link": "#/md-build/appcenter_apps/articles/quickstart/1-/one.md", 
+ "desc": "介绍了应用中心快速入门操作" 
+ }, 
+ { 
+ "title": "租户管理", 
+ "link": "#/md-build/appcenter_apps/articles/quickstart/2-/eleven.md", 
+ "desc": "提供多租户管理，对租户、租户用户的关系提供统一维护及可视化查询" 
+ }, 
+ { 
+ "title": "租用管理", 
+ "link": "#/md-build/appcenter_apps/articles/quickstart/2-/twelve.md", 
+ "desc": "对租户购买的应用进行管理，能够查询到已购买的应用的租期、剩余天数及状态" 
+ }, 
+ { 
+ "title": "应用授权", 
+ "link": "#/md-build/appcenter_apps/articles/quickstart/2-/thirteen.md", 
+ "desc": "管理租户内的用户访问已购买的应用的范围" 
+ } 
+ ] 
+ } 
